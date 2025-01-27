@@ -7,5 +7,5 @@ def main():
 	# Printing the statement: This is a very simple "program" isn't it?
 	print('This is a very simple "program" isn\'t t it?')
 
-# Calling main]
+# Calling main
 main()
